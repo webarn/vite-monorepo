@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./"
+  },
+  // include也需要配置以下：
+  "include": ["**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "**/*.vue"]
+}

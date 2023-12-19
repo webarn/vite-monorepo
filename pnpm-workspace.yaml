@@ -1,0 +1,3 @@
+packages:
+  - 'packages/**' # 各项目目录
+  - 'apps/*' # 各项目目录
